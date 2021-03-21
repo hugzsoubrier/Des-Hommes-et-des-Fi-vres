@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Des Fièvres & Des Hommes - c'est quoi ?
 
 # View.
 #   1 = List
