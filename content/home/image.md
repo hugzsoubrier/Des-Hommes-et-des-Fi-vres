@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: IMG_0003.heic
+    image: test.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
