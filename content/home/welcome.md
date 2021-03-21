@@ -17,6 +17,7 @@ advanced:
   css_class:
 ---
 
-\vspace{-50truemm}
+
+
 
 Soyez les bienvenus sur le site du podcast audio **_Des Fièvres & Des Hommes_**. Vous trouverez ici les descriptions et liens vers les épisodes, ainsi que la Bibliographie complète utilisée pour l'écriture de chaque épisode"
