@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Bonjour !"
 subtitle: "       "
-hero_media: IMG_0003.heic
+hero_media: test.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
