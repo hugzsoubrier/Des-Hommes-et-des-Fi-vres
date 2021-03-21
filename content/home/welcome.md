@@ -16,7 +16,5 @@ advanced:
   css_style:
   css_class:
 ---
- 
-  
-   
-Soyez les bienvenus sur le site du podcast audio **_Des Fièvres & Des Hommes_**. Vous trouverez ici les descriptions et liens vers les épisodes, ainsi que la Bibliographie complète utilisée pour l'écriture de chaque épisode"
+
+Soyez les bienvenus sur le site du podcast audio **_Des Fièvres & Des Hommes_**. Vous trouverez ici les descriptions et liens vers les épisodes, ainsi que la Bibliographie complète utilisée pour l'écriture de chaque épisode
