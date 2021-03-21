@@ -4,6 +4,3 @@ summary: "description du podcast"  # Add a page description.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
-
-
-Bonjour ou est ce que ça appariat ? 
